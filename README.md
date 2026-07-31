@@ -42,6 +42,9 @@ ADMIN_PASSWORD=1234
 
 ```powershell
 Copy-Item .env.example .env
+```
+
+```powershell
 npm start
 ```
 
