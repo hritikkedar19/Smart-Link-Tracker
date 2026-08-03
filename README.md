@@ -33,7 +33,7 @@ Copy-Item .env.example .env
 ```env
 PORT=3000
 BASE_URL=http://localhost:3000
-MONGO_URL=mongodb+srv://USERNAME:PASSWORD@cluster-name.mongodb.net/mylinktracker?retryWrites=true&w=majority
+MONGO_URL=mongodb+srv://USERNAME:PASSWORD@cluster-name.mongodb.net/smartlinktracker?retryWrites=true&w=majority
 ADMIN_USERNAME=admin
 ADMIN_PASSWORD=1234
 ```
